@@ -28,7 +28,7 @@ namespace BankTests
         {
             // Arrange
             const double beginningBalance = 11.99;
-            const double debitAmount = -100.00;
+            const double debitAmount = -20.00;
             BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance);
 
             // Act
